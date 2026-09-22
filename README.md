@@ -11,3 +11,4 @@ Repositorio de programación de DAW
 |[Ejercicio 2](tema/AntonioAbellanPino.java) | Segundo ejercicio. Muestra mi nombre en la pantalla a través de un programa.
 |[Ejercicio 3](tema/AntonioAbellanPino2.java) | Tercer ejercicio. Muestra mi nombre, dirección y número de teléfono.
 |[Ejercicio 4](tema/Englishletters.java) | Cuarto ejercicio. Muestra 10 palabras en inglés con su traducción.
+|[Ejercicio 5]() | Quinto ejercicio. Muestra mi horario de clase.
