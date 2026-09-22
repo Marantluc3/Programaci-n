@@ -8,4 +8,4 @@ Repositorio de programación de DAW
 | [Welcome.java](tema/Welcome.java) | Primer programa de java. Muestra un mensaje de bienvenida |
 | [Bye.java](tema/Bye.java) | Segundo programa de java. Muestra un mensaje de despedida |
 |[SalidaFormateada02.java](tema/SalidaFormateada02.java) | Primer ejercicio. Muestra una lista de artículos, precio y nº de cajas.
-|[AntonioAbellanPino.java]() | Segundo ejercicio. Muestra mi nombre en la pantalla a través de un programa.
+|[AntonioAbellanPino.java](tema/AntonioAbellanPino.java) | Segundo ejercicio. Muestra mi nombre en la pantalla a través de un programa.
