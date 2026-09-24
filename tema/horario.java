@@ -1,6 +1,6 @@
 public class horario {	
   public static void main(String[] args) { 
-    System.out.println("\t\t lunes martes miercoles jueves viernes");
+    System.out.println("\t\t lunes\tmartes\tmiercoles jueves viernes");
     System.out.println("-------------------------------------------------------------");
     System.out.println("8:00-9:00 \t LMDAW \t BDDAW \t SIDAW \t PRDAW \t EDDAW");
     System.out.println("-------------------------------------------------------------");
