@@ -16,4 +16,4 @@ Repositorio de programación de DAW
 ## TEMA 2
 | Ejercicio | Descripción |
 | --------- | ----------- |
-| [calculaMinutos.java]() | Cálculo de minutos y segundos restantes indicando un nº de segundos. |
+| [calculaMinutos.java](tema2/calculaMinutos.java) | Cálculo de minutos y segundos restantes indicando un nº de segundos. |
