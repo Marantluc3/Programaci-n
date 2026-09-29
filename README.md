@@ -17,6 +17,7 @@ Repositorio de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [calculaMinutos.java](tema2/calculaMinutos.java) | Cálculo de minutos y segundos restantes indicando un nº de segundos. |
-| [Ejercicio1](tema2/calculaSalario.java) | Cálculo de salario salario semanal de un trabajador que cobra 12€ la hora. |
 | [conversionTemperatura](tema2/conversionTemperatura.java) | conversión de celsius a fahrenheit. |
 | [conversionTemperatura2](tema2/conversionTemperatura2.java) | Conversión de fahrenheit a celsius. |
+| [Ejercicio1](tema2/calculaSalario.java) | Cálculo de salario salario semanal de un trabajador que cobra 12€ la hora. |
+| [Ejercicio2]() | Cálculo de volumen del cono dándole el radio y la altura. |
