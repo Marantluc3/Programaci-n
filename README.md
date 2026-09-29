@@ -21,5 +21,5 @@ Repositorio de programación de DAW
 | [conversionTemperatura2](tema2/conversionTemperatura2.java) | Conversión de fahrenheit a celsius. |
 | [Ejercicio1](tema2/calculaSalario.java) | Cálculo de salario salario semanal de un trabajador que cobra 12€ la hora. |
 | [Ejercicio2](tema2/volumenCono.java) | Cálculo de volumen del cono dándole el radio y la altura. |
-|[Ejercicio3]() | Conversión de megabytes a kilobytes. |
+|[Ejercicio3](tema2/conversor1.java) | Conversión de megabytes a kilobytes. |
 |[Ejercicio4]() | Conversión de kilobytes a megabytes. |
