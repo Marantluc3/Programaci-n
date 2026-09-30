@@ -9,7 +9,7 @@ public class conversor2 {
         // Leer el número de kilobytes introducido por el usuario
         kb=sc.nextDouble();
         // Convertir kilobytes a megabytes
-        mb=kb / 1000;
+        mb=kb / 1024;
         // Mostrar el resultado de la conversión
         System.out.println(kb + " kilobytes son " + mb + " megabytes. ");
     }
