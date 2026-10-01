@@ -27,3 +27,4 @@ Repositorio de programación de DAW
 | [Mayor de edad o no](tema2/Practica1.java) | Escribe tu edad y un programa te dice si eres mayor de edad o no. |
 |[Número Mayor](tema2/NumeroMayor.java) | El programa indica que número de los dos escritos es mayor. |
 |[Número menor](tema2/NumeroMenor.java) | El programa indica el número menor entre los tres escritos. |
+|[Orden menor a mayor](tema2/MenoraMayor.java) | El programa ordena tres números de menor a mayor. |
