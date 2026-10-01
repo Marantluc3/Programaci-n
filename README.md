@@ -23,3 +23,4 @@ Repositorio de programación de DAW
 | [Ejercicio2](tema2/volumenCono.java) | Cálculo de volumen del cono dándole el radio y la altura. |
 |[Ejercicio3](tema2/conversor1.java) | Conversión de megabytes a kilobytes. |
 |[Ejercicio4](tema2/conversor2.java) | Conversión de kilobytes a megabytes. |
+|[RandomTest]() | Suma de números randoms. |
