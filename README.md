@@ -25,3 +25,4 @@ Repositorio de programación de DAW
 |[Ejercicio4](tema2/conversor2.java) | Conversión de kilobytes a megabytes. |
 |[RandomTest](tema2/RandomTest.java) | Suma de números randoms. |
 | [Mayor de edad o no](tema2/Practica1.java) | Escribe tu edad y un programa te dice si eres mayor de edad o no. |
+|[Número Mayor](tema2/NumeroMayor.java) | El programa indica que número de los dos escritos es mayor. |
