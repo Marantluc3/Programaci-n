@@ -26,3 +26,4 @@ Repositorio de programación de DAW
 |[RandomTest](tema2/RandomTest.java) | Suma de números randoms. |
 | [Mayor de edad o no](tema2/Practica1.java) | Escribe tu edad y un programa te dice si eres mayor de edad o no. |
 |[Número Mayor](tema2/NumeroMayor.java) | El programa indica que número de los dos escritos es mayor. |
+|[Número menor](tema2/NumeroMenor.java) | El programa indica el número menor entre los tres escritos. |
