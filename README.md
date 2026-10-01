@@ -28,3 +28,4 @@ Repositorio de programación de DAW
 |[Número Mayor](tema2/NumeroMayor.java) | El programa indica que número de los dos escritos es mayor. |
 |[Número menor](tema2/NumeroMenor.java) | El programa indica el número menor entre los tres escritos. |
 |[Orden menor a mayor](tema2/MenoraMayor.java) | El programa ordena tres números de menor a mayor. |
+|[Número valido y cifras](tema2/NumeroValido.java) | El programa te dice si el nº escrito es válido y las cifras que tiene. |
