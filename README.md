@@ -23,15 +23,15 @@ Repositorio de programación de DAW
 | [Ejercicio2](tema2/volumenCono.java) | Cálculo de volumen del cono dándole el radio y la altura. |
 |[Ejercicio3](tema2/conversor1.java) | Conversión de megabytes a kilobytes. |
 |[Ejercicio4](tema2/conversor2.java) | Conversión de kilobytes a megabytes. |
-|[RandomTest](tema2/RandomTest.java) | Suma de números randoms. |
-| [Mayor de edad o no](tema2/Practica1.java) | Escribe tu edad y un programa te dice si eres mayor de edad o no. |
-|[Número Mayor](tema2/NumeroMayor.java) | El programa indica que número de los dos escritos es mayor. |
-|[Número menor](tema2/NumeroMenor.java) | El programa indica el número menor entre los tres escritos. |
-|[Orden menor a mayor](tema2/MenoraMayor.java) | El programa ordena tres números de menor a mayor. |
+
 
 ## TEMA 3
 | Ejercicio | Descripción |
 | --------- | ----------- |
+|[RandomTest](tema3/RandomTest.java) | Suma de números randoms. |
+| [Mayor de edad o no](tema3/Practica1.java) | Escribe tu edad y un programa te dice si eres mayor de edad o no. |
+|[Número Mayor](tema3/NumeroMayor.java) | El programa indica el número menor entre los tres escritos. |
+|[Orden menor a mayor](tema3/MenoraMayor.java) | El programa ordena tres números de menor a mayor. |
 |[Número valido y cifras](tema3/NumeroValido.java) | El programa te dice si el nº escrito es válido y las cifras que tiene. |
 | [Divisible entre 2 y 3](tema3/divisible.java) | El programa te dice si es divisible entre los dos, entre uno de los dos o si no es divisible entre ninguno. |
 | [Bisiesto](tema3/bisiesto.java) | El programa calcula si el año es bisiesto o no. |
