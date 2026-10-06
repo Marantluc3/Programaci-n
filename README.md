@@ -29,3 +29,4 @@ Repositorio de programación de DAW
 |[Número menor](tema2/NumeroMenor.java) | El programa indica el número menor entre los tres escritos. |
 |[Orden menor a mayor](tema2/MenoraMayor.java) | El programa ordena tres números de menor a mayor. |
 |[Número valido y cifras](tema2/NumeroValido.java) | El programa te dice si el nº escrito es válido y las cifras que tiene. |
+| [Divisible entre 2 y 3](tema2/divisible.java) | El programa te dice si es divisible entre los dos, entre uno de los dos o si no es divisible entre ninguno. |
