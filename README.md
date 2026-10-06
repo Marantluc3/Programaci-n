@@ -29,7 +29,7 @@ Repositorio de programación de DAW
 |[Número menor](tema2/NumeroMenor.java) | El programa indica el número menor entre los tres escritos. |
 |[Orden menor a mayor](tema2/MenoraMayor.java) | El programa ordena tres números de menor a mayor. |
 
-## TEMA 2
+## TEMA 3
 | Ejercicio | Descripción |
 | --------- | ----------- |
 |[Número valido y cifras](tema2/NumeroValido.java) | El programa te dice si el nº escrito es válido y las cifras que tiene. |
