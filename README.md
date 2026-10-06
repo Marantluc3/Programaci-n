@@ -29,7 +29,7 @@ Repositorio de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 |[RandomTest](tema3/RandomTest.java) | Suma de números randoms. |
-| [Mayor de edad o no](tema3/Practica1.java) | Escribe tu edad y un programa te dice si eres mayor de edad o no. |
+| [Mayor de edad o no](tema3/mayorono.java) | Escribe tu edad y un programa te dice si eres mayor de edad o no. |
 |[Número Mayor](tema3/NumeroMayor.java) | El programa indica el número menor entre los tres escritos. |
 |[Orden menor a mayor](tema3/MenoraMayor.java) | El programa ordena tres números de menor a mayor. |
 |[Número valido y cifras](tema3/NumeroValido.java) | El programa te dice si el nº escrito es válido y las cifras que tiene. |
