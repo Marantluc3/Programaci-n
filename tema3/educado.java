@@ -12,6 +12,8 @@ public class educado {
                 System.out.println("Buenas tardes");
             else if (hora >= 21 && hora < 24 || hora >= 0 && hora <= 5)
                 System.out.println("Buenas noches");
+        else
+             System.out.println("La hora introducida no es válida");
     
     sc.close();
         }
