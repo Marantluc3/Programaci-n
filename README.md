@@ -37,3 +37,4 @@ Repositorio de programación de DAW
 | [Bisiesto](tema3/bisiesto.java) | El programa calcula si el año es bisiesto o no. |
 | [ejercicio 1](tema3/asignaturaDia.java) | El programa te dice que asignatura toca a primera hora ese día introduciéndole en nº del día. |
 | [ejercicio 2](tema3/educado.java) | El programa te pregunta una hora del día y dependiendo del tramo en el que se encuentre dicha hora te dice buenos dias, buenas tardes o buenas noches. |
+| [ejercicio 3](tema3/horoscopo.java) | El programa te pide el nº de mes y luego el nº de día y según el tramo en el que se encuentre dice el horóscopo que te corresponde. |
