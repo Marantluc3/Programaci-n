@@ -36,3 +36,4 @@ Repositorio de programación de DAW
 | [Divisible entre 2 y 3](tema3/divisible.java) | El programa te dice si es divisible entre los dos, entre uno de los dos o si no es divisible entre ninguno. |
 | [Bisiesto](tema3/bisiesto.java) | El programa calcula si el año es bisiesto o no. |
 | [ejercicio 1](tema3/asignaturaDia.java) | El programa te dice que asignatura toca a primera hora ese día introduciéndole en nº del día. |
+| [ejercicio 2](tema3/educado.java) | El programa te pregunta una hora del día y dependiendo del tramo en el que se encuentre dicha hora te dice buenos dias, buenas tardes o buenas noches. |
