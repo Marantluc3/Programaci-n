@@ -10,7 +10,7 @@ public class educado {
 
             else if(hora >= 13 && hora <= 20)
                 System.out.println("Buenas tardes");
-            else if (hora >= 21 && hora <= 5)
+            else if (hora >= 21 && hora <= 24 || hora >= 0 && hora <= 5)
                 System.out.println("Buenas noches");
     
     sc.close();
