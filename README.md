@@ -39,3 +39,8 @@ Repositorio de programación de DAW
 | [ejercicio 2](tema3/educado.java) | El programa te pregunta una hora del día y dependiendo del tramo en el que se encuentre dicha hora te dice buenos dias, buenas tardes o buenas noches. |
 | [ejercicio 3](tema3/horoscopo.java) | El programa te pide el nº de mes y luego el nº de día y según el tramo en el que se encuentre dice el horóscopo que te corresponde. |
 | [ejercicio 4](tema3/capicua.java) | El programa dice si el nº es válido según lo pedido y dice si es capicúa o no. |
+
+
+## TEMA 4
+| Ejercicio | Descripción |
+| --------- | ----------- |
