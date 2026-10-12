@@ -45,4 +45,4 @@ Repositorio de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [baraja](tema4/baraja.java) | Le pides al programa una carta y te dice el palo que es y el nº. |
-| [quiniela]() | El programa te da 1,2 o X dependiendo de la probabilidad de cada uno. |
+| [quiniela](tema4/quiniela.java) | El programa te da 1,2 o X dependiendo de la probabilidad de cada uno. |
