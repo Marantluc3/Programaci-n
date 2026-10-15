@@ -15,7 +15,7 @@ else if (palo == 2)
 else 
     System.out.println("tréboles");
 
-System.out.println("E valor de la carta es:" + valor);
+System.out.println("El valor de la carta es:" + valor);
 sc.close();
 }
 }
