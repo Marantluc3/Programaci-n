@@ -3,7 +3,6 @@ public class quiniela1 {
     public static void main(String[] args) {
        int resultado;
        int i = 1;
-     resultado = (int) (Math.random()*100 + 1);
      System.out.println("Quiniela al azar");
      while (i <= 15) { 
     resultado = (int) (Math.random()*100 + 1);
