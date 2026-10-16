@@ -48,3 +48,4 @@ Repositorio de programación de DAW
 | [baraja](tema4/cartabaraja.java) | Le pides al programa una carta y te dice el palo que es y el nº. |
 | [quiniela](tema4/quiniela1.java) | El programa te da 1,2 o X dependiendo de la probabilidad de cada uno. |
 | [5letras](tema4/letras.java) | El programa escribe 5 letras aleatorias en mayúsculas y luego en minúsculas. |
+| [caracteres](tema4/caracteres.java) | El programa escribe 5 caracteres aleatorios. |
