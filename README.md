@@ -50,3 +50,4 @@ Repositorio de programación de DAW
 | [5letras](tema4/letras.java) | El programa escribe 5 letras aleatorias en mayúsculas y luego en minúsculas. |
 | [caracteres](tema4/caracteres.java) | El programa escribe 5 caracteres aleatorios. |
 | [caracteres2](tema4/caracteres2.java) | El programa escribe 5 caracteres aleatorios. |
+| [NumeroPartido](tema4/NumeroInsertado.java) | El programa parte el nº insertado en la posición señalada. |
