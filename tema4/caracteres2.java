@@ -17,7 +17,7 @@ public class caracteres2 {
         } else {
             caracter = '@';
         }
-        while (contador <=7) {
+        while (contador <=5) {
             System.out.print(caracter);
             contador++;
         }
