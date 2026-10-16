@@ -1,4 +1,5 @@
-import java.util.Scanner; public class NumeroInsertado {
+import java.util.Scanner; 
+public class NumeroInsertado {
     public static void main(String[] args) {
         String num;
         int p;
