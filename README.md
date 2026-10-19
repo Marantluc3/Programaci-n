@@ -52,3 +52,5 @@ Repositorio de programación de DAW
 | [caracteres2](tema4/caracteres2.java) | El programa escribe 5 caracteres aleatorios. |
 | [NumeroPartido](tema4/NumeroInsertado.java) | El programa parte el nº insertado en la posición señalada. |
 | [NumeroAñadido](tema4/NumeroAñadido.java) | El programa parte el nº insertado en la posición que le dices y añade el nº indicado. |
+| [insertasimbolocadena](tema4/insertasimbolocadena.java) | El programa añade "<>" en la mitad de la cadena insertada. |
+| [SeparaporA](tema4/SeparaporA.java) | El programa divide la palabra añadida donde aparezca la primera A.
