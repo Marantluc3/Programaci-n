@@ -53,4 +53,5 @@ Repositorio de programación de DAW
 | [NumeroPartido](tema4/NumeroInsertado.java) | El programa parte el nº insertado en la posición señalada. |
 | [NumeroAñadido](tema4/NumeroAñadido.java) | El programa parte el nº insertado en la posición que le dices y añade el nº indicado. |
 | [insertasimbolocadena](tema4/insertasimbolocadena.java) | El programa añade "<>" en la mitad de la cadena insertada. |
-| [SeparaporA](tema4/SeparaporA.java) | El programa divide la palabra añadida donde aparezca la primera A.
+| [SeparaporA](tema4/SeparaporA.java) | El programa divide la palabra añadida donde aparezca la primera A. |
+| [Notas](tema4/notas.java) | El programa para cada nota añadida redondeada con decimal al alza, a la baja, truncada y al final muestra la media, el máximo y el mínimo. |
