@@ -55,3 +55,4 @@ Repositorio de programación de DAW
 | [insertasimbolocadena](tema4/insertasimbolocadena.java) | El programa añade "<>" en la mitad de la cadena insertada. |
 | [SeparaporA](tema4/SeparaporA.java) | El programa divide la palabra añadida donde aparezca la primera A. |
 | [Notas](tema4/notas.java) | El programa para cada nota añadida redondeada con decimal al alza, a la baja, truncada y al final muestra la media, el máximo y el mínimo. |
+| [dossiete](tema4/dossiete.java) | El programa comprueba que el nº insertado sea exclusivamente dígitos y que su longitud sea de 2 a 7. |
