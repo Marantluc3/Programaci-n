@@ -56,3 +56,9 @@ Repositorio de programación de DAW
 | [SeparaporA](tema4/SeparaporA.java) | El programa divide la palabra añadida donde aparezca la primera A. |
 | [Notas](tema4/notas.java) | El programa para cada nota añadida redondeada con decimal al alza, a la baja, truncada y al final muestra la media, el máximo y el mínimo. |
 | [dossiete](tema4/dossiete.java) | El programa comprueba que el nº insertado sea exclusivamente dígitos y que su longitud sea de 2 a 7. |
+
+
+## TEMA 5
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| [cohete](tema5/cohete.java) | El programa hace una cuenta atras y al final dice despegue. |
