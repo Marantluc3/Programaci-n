@@ -62,3 +62,5 @@ Repositorio de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [cohete](tema5/cohete.java) | El programa hace una cuenta atras y al final dice despegue. |
+| [TablaDelNueve](tema5/TablaDelNueve.java) | El programa muestra la tabla del nueve completa. |
+| [NotaNumerica](tema5/NotaNumerica.java) | El programa según la nota que le insertes te dice si es sobresaliente, aprobado, bien, notable o suspenso. |
