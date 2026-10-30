@@ -68,3 +68,4 @@ Repositorio de programación de DAW
 | [EscaleraDerecha](tema5/EscaleraDerecha.java) | El programa hace una escalera de nº anidados a la derecha. |
 | [Pirámide](tema5/Piramide.java) | El programa hace una pirámide de nº. |
 | [NumerosPrimos](tema5/NumerosPrimos.java) | El programa escribe nº primos. |
+| [SumaEnteros](tema5/SumaEnteros.java) | El programa te pide que le introduzcas nº y cuando quieras que los sume te pide que le escribas un 0. Se utiliza un do while. |
