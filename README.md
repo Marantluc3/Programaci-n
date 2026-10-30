@@ -67,3 +67,4 @@ Repositorio de programación de DAW
 | [Escalera](tema5/Escalera.java) | El programa escribe una escalera de nº con bucles anidados. |
 | [EscaleraDerecha](tema5/EscaleraDerecha.java) | El programa hace una escalera de nº anidados a la derecha. |
 | [Pirámide](tema5/Piramide.java) | El programa hace una pirámide de nº. |
+| [NumerosPrimos](tema5/NumerosPrimos.java) | El programa escribe nº primos. |
