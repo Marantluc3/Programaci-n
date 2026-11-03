@@ -70,3 +70,4 @@ Repositorio de programación de DAW
 | [NumerosPrimos](tema5/NumerosPrimos.java) | El programa escribe nº primos. |
 | [SumaEnteros](tema5/SumaEnteros.java) | El programa te pide que le introduzcas nº y cuando quieras que los sume te pide que le escribas un 0. Se utiliza un do while. |
 | [NumerosPares](tema5/NumerosPares.java) | El programa te pide un nº y te devuelve los nº pares que hay desde el 1 hasta el nº insertado. |
+| [ContarCifras](tema5/ContarCifras.java) | El programa cuenta cuantas cifras tiene el nº insertado por teclado. |
