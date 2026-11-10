@@ -73,7 +73,7 @@ Repositorio de programación de DAW
 | [ContarCifras](tema5/ContarCifras.java) | El programa cuenta cuantas cifras tiene el nº insertado por teclado. |
 
 
-## TEMA 5
+## TEMA 6
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [Biblioteca](tema6/Biblioteca.java) | El programa crea una biblioteca de funciones matemáticas. |
