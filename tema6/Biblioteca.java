@@ -13,7 +13,7 @@ public class Biblioteca {
             System.out.println("5. Quitar dígitos por detrás");
             System.out.println("6. Pegar dígito por delante");
             System.out.println("7. Salir");
-            System.out.print("\nElige una opción (1-7): ");
+            System.out.print("Elige una opción (1-7): ");
 
             opcion = sc.nextInt();
         } while (opcion < 1 || opcion > 7);
