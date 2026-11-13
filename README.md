@@ -77,3 +77,4 @@ Repositorio de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [Biblioteca](tema6/Biblioteca.java) | El programa crea una biblioteca de funciones matemáticas. |
+| [Máximo](tema6/Maximo.java) | El programa pide por teclado dos nº y dice cuál es mayor. |
