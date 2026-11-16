@@ -78,3 +78,4 @@ Repositorio de programación de DAW
 | --------- | ----------- |
 | [Biblioteca](tema6/Biblioteca.java) | El programa crea una biblioteca de funciones matemáticas. |
 | [Máximo](tema6/Maximo.java) | El programa pide por teclado dos nº y dice cuál es mayor. |
+| [Máximo3](tema6/TesMaximo.java) | Ídem una versión que calcule el máximo de 3 números. |
