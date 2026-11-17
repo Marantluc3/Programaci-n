@@ -79,4 +79,4 @@ Repositorio de programación de DAW
 | [Biblioteca](tema6/Biblioteca.java) | El programa crea una biblioteca de funciones matemáticas. |
 | [Máximo](tema6/Maximo.java) | El programa pide por teclado dos nº y dice cuál es mayor. |
 | [Máximo3](tema6/TesMaximo.java) | Ídem una versión que calcule el máximo de 3 números. |
-| [VolumenCilindro](tema6/VolumenCilindro.java) | Realizar una función que calcule (muestre en pantalla) volumen de un cilindro. Además hemos de pasarle a la función el radio y la altura. |
+| [VolumenCilindro](tema6/volumenCilindro.java) | Realizar una función que calcule (muestre en pantalla) volumen de un cilindro. Además hemos de pasarle a la función el radio y la altura. |
