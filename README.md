@@ -80,3 +80,5 @@ Repositorio de programación de DAW
 | [Máximo](tema6/Maximo.java) | El programa pide por teclado dos nº y dice cuál es mayor. |
 | [Máximo3](tema6/TesMaximo.java) | Ídem una versión que calcule el máximo de 3 números. |
 | [VolumenCilindro](tema6/volumenCilindro.java) | Realizar una función que calcule (muestre en pantalla) volumen de un cilindro. Además hemos de pasarle a la función el radio y la altura. |
+| [DivisoresPrimos](tema6/DivisoresPrimos.java | Módulo al que se le pasa un número entero y devuelve el número de divisores primos que tiene. |
+| [NumerosAmigos](tema6/NumerosAmigos.java) | 6. Escriba una función que decida si dos números enteros positivos son amigos. Dos números son amigos, si la suma de sus divisores (distintos de ellos mismos) son iguales. |
