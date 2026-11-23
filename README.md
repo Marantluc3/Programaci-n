@@ -83,3 +83,10 @@ Repositorio de programación de DAW
 | [DivisoresPrimos](tema6/DivisoresPrimos.java | Módulo al que se le pasa un número entero y devuelve el número de divisores primos que tiene. |
 | [NumerosAmigos](tema6/NumerosAmigos.java) | Escriba una función que decida si dos números enteros positivos son amigos. Dos números son amigos, si la suma de sus divisores (distintos de ellos mismos) son iguales. |
 | [MuestraDiaSemana](tema6/MuestraDiaSemana.java) | Realizar un programa que lea fechas validas por teclado y calcule el día de la semana que corresponde a esa fecha. |
+
+
+## TEMA 7
+| Ejercicio | Descripción |
+| --------- | ----------- |
+| [PrimerosCien](tem7/PrimerosCien.java) | Escribe un programa que rellene un array con los 100 primeros números enteros en orden ascendente y los muestre en pantalla. |
+
