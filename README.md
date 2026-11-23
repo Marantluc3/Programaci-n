@@ -89,4 +89,6 @@ Repositorio de programación de DAW
 | Ejercicio | Descripción |
 | --------- | ----------- |
 | [PrimerosCien](tema7/PrimerosCien.java) | Escribe un programa que rellene un array con los 100 primeros números enteros en orden ascendente y los muestre en pantalla. |
+| [DescendenteCien](tema7/DescendenteCien.java) | Escribe un programa que rellene un array con los 100 primeros números enteros en orden descendente y los muestre en pantalla. |
+
 
