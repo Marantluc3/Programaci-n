@@ -91,6 +91,8 @@ Repositorio de programación de DAW
 | [PrimerosCien](tema7/PrimerosCien.java) | Escribe un programa que rellene un array con los 100 primeros números enteros en orden ascendente y los muestre en pantalla. |
 | [DescendenteCien](tema7/DescendenteCien.java) | Escribe un programa que rellene un array con los 100 primeros números enteros en orden descendente y los muestre en pantalla. |
 | [ParesUnoaCien](tema7/ParesUnoaCien.java) | Escribe un programa que rellene un array con los números pares comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente. |
+| [ImparesUnoaCien](tema7/ImparesUnoaCien.java) | Escribe un programa que rellene un array con los números impares comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente. |
+
 
 
 
