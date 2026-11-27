@@ -95,6 +95,7 @@ Repositorio de programación de DAW
 | [ArrayPrimo](tema7/ArrayPrimo.java) | Escribe un programa que rellene un array con los números primos comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente. Crea un método que indique si un número entero es primo o no lo es. |
 | [Array10Inverso](tema7/Array10Inverso.java) | Escribe un programa que lea 10 números por teclado, los almacene en un array y muestre los números insertados en orden inverso. |
 | [ArrayOperaciones](tema7/ArrayOperaciones.java) | Escribe un programa que lea 10 números por teclado, los almacene en un array y muestre la suma, resta, multiplicación y división de todos. |
+| [ArraySumaPares](tema7/ArraySumaPares.java) | Escribe un programa que rellene un array con los 100 primeros números pares y muestre su suma. |
 
 
 
